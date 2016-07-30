@@ -1,0 +1,308 @@
+﻿body {
+    /*display:none;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*>>>>>>>HEADER<<<<<<<*/
+
+header {
+    background: url('../img/pexels-photo-67088.jpeg') no-repeat center;
+}
+
+.conteiner_1 {
+    margin:auto;
+    max-width:960px;
+    text-align:center;
+}
+
+.conteiner_1 .row {
+    padding:35px 0;
+}
+
+.conteiner_1 ul {
+    text-align:right;
+}
+
+.conteiner_1 li {
+    display:inline-block;
+    font-size:18px;
+    font-weight:300;
+    width:24%;
+    text-align:center;
+}
+
+.conteiner_1 a {
+    color:#eaf4f7;
+    padding:0 7px;
+}
+
+.conteiner_1 a:hover {
+    background:white;
+    color:black;
+    transition:.2s;
+}
+
+.conteiner_2 {
+    max-width:960px;
+    margin:auto;
+    text-align:center;
+    padding-top:0;
+    padding-top: 170px;
+    padding-bottom: 296px;
+}
+
+.conteiner_2 h1, .conteiner_2 h4 {
+    font-weight:300;
+}
+
+.conteiner_2 h1 {
+    color:#ffffff;
+    font-size:48px;
+}
+
+.conteiner_2 h4 {
+    color:#9badb8;
+    font-size:24px;
+}
+
+/*>>>>>>>SECTION_1<<<<<<<*/
+
+.sec_1 {
+
+}
+
+.sec_1 .row {
+    margin:auto;
+    max-width:960px;
+    text-align:center;
+}
+
+.par_1, .par_2 {
+    font-size:18px;
+}
+
+.par_1 {
+    font-weight:600;
+    padding-top:100px;
+}
+
+.par_2 {
+    font-weight:300;
+    padding-top:40px;
+}
+
+.icons {
+    padding-top:80px;
+    padding-bottom: 330px;
+    font-size:16px;
+}
+
+.icons p {
+    padding-top:40px;
+}
+
+/*>>>>>>>SECTION_2<<<<<<<*/
+
+.sec_2 {
+    background: url('../img/Vilarpac_website_background.jpg') no-repeat center;
+}
+
+.sec_2 .row {
+    margin:auto;
+    max-width:960px;
+    text-align:center;
+}
+
+.conteiner_3 {
+    padding-top:60px;
+    text-align:center;
+    width:300px;
+    margin:auto;
+}
+
+.conteiner_3 h5 {
+    font-size:36px;
+    font-weight:400;
+    color:#7e7f80;
+}
+
+.conteiner_4 {
+    margin-top:60px;
+    padding-bottom:120px;
+    font-size:18px;
+    font-weight:300;
+}
+
+.list_1, .list_2 {
+    display:inline-block;
+    width:49%;
+    vertical-align:top;
+}
+
+.conteiner_4 ul {
+    text-align:left;
+}
+
+.conteiner_4 li {
+    margin-bottom:30px;
+}
+
+/*>>>>>>>SECTION_3<<<<<<<*/
+
+.sec_3 {
+    background: url('../img/Back_middle2.png') no-repeat top center;
+}
+
+.sec_3 .row {
+    margin:auto;
+    max-width:960px;
+    text-align:center;
+}
+
+.conteiner_5 {
+    margin-top:60px;
+}
+
+.conteiner_5 h5 {
+    font-size:36px;
+    font-weight:400;
+    color:#7e7f80;
+}
+
+.partners {
+    margin-top:150px;
+}
+
+.parter_1, .parter_2 {
+    display:inline-block;
+    padding:0 30px;
+}
+
+.parter_3 {
+    padding:50px 50px 0;
+}
+
+.sec_3 p {
+    font-size:18px;
+    font-weight:300;
+    margin-top:120px;
+    margin-bottom:180px;
+}
+
+/*>>>>>>>SECTION_4<<<<<<<*/
+
+.sec_4 {
+    background:#f0f5f9;
+}
+
+.sec_4 .row {
+    margin:auto;
+    max-width:960px;
+    text-align:center;
+}
+
+.container_6 {
+    margin-top:60px;
+}
+
+.container_6 h5 {
+    font-size:36px;
+    font-weight:400;
+    color:#7e7f80;
+}
+
+.preority {
+    padding: 70px 70px 70px 200px;
+}
+
+.preority ul{
+    text-align:left;
+    font-size:18px;
+    font-weight:300;
+}
+
+.preority li {
+    position:relative;
+    margin-bottom:15px;
+}
+
+.preority li::before {
+    position:absolute;
+    content:url('../img/plus.png');
+    left:-50px;
+}
+
+.motivation {
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:115px;
+}
+
+/*>>>>>>>FOOTER<<<<<<<*/
+
+footer {
+    background:url('../img/pexels-photo.jpg') no-repeat top center;
+}
+
+footer .row {
+    margin:auto;
+    max-width: 960px;
+    text-align: center;
+}
+
+.u_can_contact {
+    color:#7f93d4;
+    margin-top:60px;
+    font-size:24px;
+    font-weight:300;
+}
+
+.container_7 {
+    margin-top:60px;
+}
+
+.container_7 h5 {
+    font-size:36px;
+    font-weight:400;
+    color:#ffffff;
+}
+
+.contacts h6 {
+    color:#7389ab;
+    font-size:16px;
+    text-align:left;
+}
+
+.contacts {
+    margin-top:50px;
+}
+
+.contacts p {
+    color:#ffffff;
+    font-size:24px;
+    text-align:left;
+}
+
+.contact_1, .contact_2, .contact_3 {
+    display:inline-block;
+    width:30%;
+    padding:20px;
+}
+
+.call_us {
+    margin-top:50px;
+    margin-bottom:100px;
+    margin-bottom: 290px;
+}
+
+.call_us p:first-child {
+    color:#8fa6ef;
+    font-weight:300;
+    font-size:18px;
+}
+
+.call_us p:last-child {
+    color:#8fa6ef;
+    font-weight:400;
+    font-size:36px;
+}

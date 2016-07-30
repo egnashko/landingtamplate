@@ -1,0 +1,98 @@
+﻿@media (max-width: 756px) {
+
+    .conteiner_1 li {
+        display:block;
+        margin:auto;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+
+    .par_1{
+        padding-top:50px;
+    }
+
+    .conteiner_2 {
+        padding:0;
+        padding-bottom:60px;
+    }
+
+    .icons {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .list_1, .list_2 {
+        display:block;
+        width:90%;
+        margin:auto;
+    }
+
+    .conteiner_3 {
+        padding-top:30px;
+    }
+
+    .conteiner_4 {
+        padding-bottom:0;
+    }
+
+    .conteiner_4 li {
+        font-size:16px;
+        margin-bottom:30px;
+    }
+
+    .conteiner_5 {
+        margin-top:30px;
+    }
+
+    .partners {
+        margin-top:50px;
+    }
+
+    .sec_3 p {
+        margin-top:60px;
+        margin-bottom:60px;
+    }
+
+    .container_6 {
+        margin-top:30px;
+    }
+
+    .preority {
+        padding: 30px 30px 30px 100px;
+    }
+
+    .motivation {
+        margin-bottom:50px;
+    }
+
+    .container_7 {
+    margin-top: 30px;
+    }
+
+    .u_can_contact {
+        margin-top:30px;
+    }
+
+    .contacts {
+        margin-top:20px;
+    }
+
+    .contact_1, .contact_2, .contact_3 {
+        display:block;
+        width:50%;
+        margin:auto;
+    }
+
+    .contacts p {
+        text-align:center;
+    }
+
+    .contacts h6 {
+        text-align:center;
+    }
+
+    .call_us {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    }
+}
